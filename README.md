@@ -18,7 +18,7 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-DEVELOPED BY: JEENSFER JO
+DEVELOPED BY: PRAVISH J
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
